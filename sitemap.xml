@@ -2,274 +2,282 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://NCKUME-wiki.org/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/edit-landing/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/basic/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/basic/insertion-sort/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/computer-aided/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/computer-aided/CAD/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/computer-aided/CAM/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/computer-aided/PLM/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/control/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/control/ctrl-theory/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/control/robotics/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/control/theory/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/control/tools/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/design/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/eng-math/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/eng-math/calculus/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/eng-math/linear-algbra/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/eng-math/ode/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/eng-math/pde/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/eng-math/statistics/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/eng-math/tensor/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/general/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/general/CAD/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/general/eng-drawing/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/general/mechanism/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
+    </url>
+    <url>
+         <loc>https://NCKUME-wiki.org/general/metrology/</loc>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/general/vibration/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/glossary/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/intro/about/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/intro/docker-deploy/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/intro/faq/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/intro/format/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/intro/htc/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/intro/mirrors/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
+    </url>
+    <url>
+         <loc>https://NCKUME-wiki.org/intro/newcommand/</loc>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/intro/symbol/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/intro/thanks/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/intro/what-nckume-wiki-is-not/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/manufacture/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/material/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/material/ceramics/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/material/composite/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/material/metal/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/material/polymer/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/material/struct/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/material/test/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/mechanics/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/mechanics/dynamics/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/mechanics/elasticity/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/mechanics/kinematics/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/mechanics/material/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/mechanics/plasticity/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/mechanics/statics/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/media/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/misc/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/misc/numeric-method/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/misc/quality/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/misc/reliability/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/misc/spc/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/oem/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/oem/electrical-eng/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/oem/electromechanical/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/oem/electronics/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/oem/optics/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/project/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/thermo-fluid/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/thermo-fluid/combustion/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/thermo-fluid/fluid/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/thermo-fluid/heat-transfer/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
     <url>
          <loc>https://NCKUME-wiki.org/thermo-fluid/thermodynamics/</loc>
-         <lastmod>2025-02-07</lastmod>
+         <lastmod>2025-02-08</lastmod>
     </url>
 </urlset>
